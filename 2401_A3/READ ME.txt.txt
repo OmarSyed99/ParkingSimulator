@@ -1,0 +1,12 @@
+Omar Syed 
+101078026
+
+in order to compile type in 
+	gcc parkingSimulator.c - lm
+	gcc simulator2.c -lm
+
+
+Was not to sure how to incorporate setHours in a beneficial way so,
+I wrote it how the assignment wanted it, for parkingSimulator.c
+and wrote it differently for simulator2.c, so id acutally incorporate 
+it into my code. 
